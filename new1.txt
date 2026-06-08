@@ -89,6 +89,7 @@
                     <label for="instructions">Special Instructions (Optional)</label>
                     <input type="text" id="instructions" name="instructions" placeholder="e.g. Leave with security, fragile contents">
                 </div>
+
             </div>
             <!-- Submit Button -->
             <button type="submit" class="submit-btn">Confirm Booking</button><br><br>

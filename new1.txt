@@ -94,6 +94,7 @@
             <!-- Submit Button -->
             <button type="submit" class="submit-btn">Confirm Booking</button><br><br>
 
+
              <div class="btn-container no-print">
         <button class="print-btn" onclick="window.print()">🖨️ Confirm and Print</button>
     </div>

@@ -9,7 +9,7 @@
 <body>
 
     <div class="booking-container">
-        <h2>📦 Local Parcel Booking</h2>
+        <h2>📦 Local Parcel Booking for all</h2>
         <p class="subtitle">Schedule your same-day local delivery instantly.</p>
 
 
